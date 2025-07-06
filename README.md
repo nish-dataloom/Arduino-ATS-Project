@@ -18,7 +18,7 @@ This mini project demonstrates an **Automatic Transfer Switch (ATS)** using an *
 ### 🔌 ATS Block Diagram
 ![ATS Block Diagram](images/Block_Diagram.png) 
 ![Model](images/model1.png)
-![Model](images/model2.png)
+![Mode2](images/model2.png)
 ![Circuit Diagram](images/Circuit_Diagram.png)
 
 ---
