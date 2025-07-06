@@ -16,10 +16,11 @@ This mini project demonstrates an **Automatic Transfer Switch (ATS)** using an *
 ## 📸 Circuit Diagram & Images
 
 ### 🔌 ATS Block Diagram
-![ATS Block Diagram](images/Block_Diagram.png) 
+![ATS Block Diagram](images/BlockDiagram.png) 
+![Circuit Diagram](images/CircuitDiagram.png)
 ![Model](images/model1.png)
 ![Mode2](images/model2.png)
-![Circuit Diagram](images/Circuit_Diagram.png)
+
 
 ---
 
@@ -68,10 +69,10 @@ Arduino-ATS-Project/
 
 ---
 ## 👨‍💻 Project Contributors
-
+- **Nishanth Y**
 - Arunank H M  
 - Jeetendra Maharshi  
-- **Nishanth Y**
+
 
 ---
 
